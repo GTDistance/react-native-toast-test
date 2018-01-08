@@ -1,6 +1,6 @@
 {
   "name": "react-native-toast-test3",
-  "version": "2.0.6",
+  "version": "2.0.7",
   "description": "android toast test",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,5 @@
     "toast"
   ],
   "author": "thomas.wang",
-  "license": "ISC",
-"nativePackage": true
+  "license": "ISC"
 }
