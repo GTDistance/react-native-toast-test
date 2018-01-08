@@ -1,6 +1,6 @@
 {
   "name": "react-native-toast-test3",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "android toast test",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/GTDistance/react-native-toast-test.git"
+    "url": "https://github.com/GTDistance/react-native-toast-test"
   },
   "keywords": [
     "toast"
